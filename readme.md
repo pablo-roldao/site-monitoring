@@ -23,8 +23,8 @@ A simple website monitoring project developed in Go. This program allows you to 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/repository-name.git
-   cd repository-name
+   git clone https://github.com/pablo-roldao/site-monitoring.git
+   cd site-monitoring
    ```
 
 2. **Configure the `sites.txt` file:**
@@ -32,7 +32,7 @@ A simple website monitoring project developed in Go. This program allows you to 
    Add the URLs you want to monitor, one per line. Example:
 
    ```
-   https://www.google.com
+   https://archlinux.com
    https://www.github.com
    ```
 
@@ -61,13 +61,6 @@ You can adjust the monitoring parameters by changing the constants defined at th
 - `monitoringDelay`: Defines the delay (in seconds) between each monitoring cycle.
 - `sitesPath`: Defines the path to the sites file.
 - `logsPath`: Defines the path to the logs file.
-
-## Contributions
-
-Contributions are welcome! If you want to improve the project, feel free to:
-
-- Open *issues* to report bugs or suggest improvements.
-- Submit *pull requests* with new features or fixes.
 
 ## License
 
