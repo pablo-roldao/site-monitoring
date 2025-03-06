@@ -32,7 +32,7 @@ A simple website monitoring project developed in Go. This program allows you to 
    Add the URLs you want to monitor, one per line. Example:
 
    ```
-   https://archlinux.com
+   https://archlinux.org
    https://www.github.com
    ```
 
